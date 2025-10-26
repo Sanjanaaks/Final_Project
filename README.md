@@ -1,5 +1,7 @@
 
 # README - Shark Tank India Investment Analysis
+<img width="1615" height="753" alt="image" src="https://github.com/user-attachments/assets/a38ecf58-757b-4d4e-abf3-934c70634b67" />
+
 
 ## Overview
 This project analyzes investment trends, founder patterns, and investor behavior on *Shark Tank India*.
@@ -34,4 +36,5 @@ It uses cleaned and standardized data extracted from the provided `Shark Tank In
 - Add season-wise or episode-wise analysis.
 - Create investor co-investment network visualization.
 - Integrate dashboard using Plotly/Dash or Power BI.
+
 
